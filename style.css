@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400,500,700,900&display=swap');
+
+:root {
+    --color-primary: #262A2F;
+    --color-accent: #FF5533;
+    --color-grey: #868686;
+    --color-white: #FFFFFF;
+}
+
+*{
+    all: unset;
+    display: revert;
+}
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color: #EBEBEB;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+
+https://www.figma.com/file/i0MZJhmtkllRso7R7cIGJq/News-Feed-1.0?type=design&node-id=2-54&mode=design&t=icK0gaiw5m07yXZ6-0
